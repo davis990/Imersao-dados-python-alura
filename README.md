@@ -6,14 +6,7 @@ Foi criado um dashboard para explorar e fitrar dados de salários na área de da
 - **4 gráficos interativos** para visualizar dados salariais
 - **4 filtros dinâmicos** (Ano, Senioridade, Tipo de Contrato, Tamanho da Empresa)
 - **Métricas resumidas** (Salário médio, máximo, total de respondentes, cargo mais frequente)
-- **Comparação internacional** de salários para Data Scientists
-
-# Filtros Interativos
-Customize a análise selecionando:
-- Ano(s) desejado(s)
-- Nível(eis) de senioridade
-- Tipo(s) de contrato
-- Tamanho(s) de empresa
+- **Comparação internacional** de salários para Data Scientists
 
 ### Gráficos Disponíveis
 1. **Top 10 Cargos** - Gráfico de barras com os maiores salários médios
